@@ -13,9 +13,11 @@ Here I will list everything I am learning I would appreciate your feedback
       -Video
       -Repo Dokerfile and docker compose 
       -Repo Manifest Kubernetes
+      
     * Cluster Mysql 8 Kubernetes 
        -Video
        -Repo Manifest Kubernetes
+       
     * Cluster Kubernetes Witch Rancher 
        -Video
        -Steps 
