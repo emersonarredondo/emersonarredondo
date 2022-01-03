@@ -15,7 +15,30 @@ Here I will list everything I am learning I would appreciate your feedback
       -Video
       -Repo Dokerfile and docker compose 
       -Repo Manifest Kubernetes
-      
+ # My tools 
+ 
+    * Visual Studio Code
+    * WindowsGrid
+    * MremoteNG
+    * Atom 
+    * MobaxTerm
+    * Postman
+    * Git
+    * Wireshark
+    * Jmeter
+    * Lighshot
+    * Nmap
+    * Advancer IP Scanner
+  # My Extension Browser
+  
+    * DNS Checker - SEO and Domain Analysis  https://microsoftedge.microsoft.com/addons/detail/dns-checker-seo-and-dom/daakannpmnbpblggdcjhlhmnfoeknmlh
+    * Wappalyzer  https://microsoftedge.microsoft.com/addons/detail/wappalyzer/mnbndgmknlpdjdnjfmfcdjoegcckoikn
+    * IP Whois & Flags Chrome & Websites Rating  https://chrome.google.com/webstore/detail/ip-whois-flags-chrome-web/kmdfbacgombndnllogoijhnggalgmkon
+    * My Apps Secure Sign-in Extension  https://chrome.google.com/webstore/detail/my-apps-secure-sign-in-ex/ggjhpefgjjfobnfoldnjipclpcfbgbhl
+    * My IP address https://chrome.google.com/webstore/detail/my-ip-address/monhkdcehmbdgkhgpccaccbbcgcfpjkd
+    * Shodan https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap
+    * streamkeys https://chrome.google.com/webstore/detail/streamkeys/ekpipjofdicppbepocohdlgenahaneen
+    
 * Cluster Mysql 8 Kubernetes 
 
        -Video
