@@ -5,6 +5,7 @@ Here I will list everything I am learning I would appreciate your feedback
    * CPU Intel(R) Core(TM) i5-8400
    * RAM 24GB
    * OS Windows 10
+   * GPU  RTX 2060
    * Monitor Samsung C49RG9x
    * SSD  Samsung SSD 970 EVO 250GB 
    * WLAN  Intel Wi-Fi 6 AX200 
@@ -31,7 +32,7 @@ Here I will list everything I am learning I would appreciate your feedback
     * Advancer IP Scanner
   # My Extension Browser
   
-    * DNS Checker - SEO and Domain Analysis  https://microsoftedge.microsoft.com/addons/detail/dns-checker-seo-and-dom/daakannpmnbpblggdcjhlhmnfoeknmlh
+    * DNS Checker - SEO and Domain Analysis  (https://microsoftedge.microsoft.com/addons/detail/dns-checker-seo-and-dom/daakannpmnbpblggdcjhlhmnfoeknmlh)
     * Wappalyzer  https://microsoftedge.microsoft.com/addons/detail/wappalyzer/mnbndgmknlpdjdnjfmfcdjoegcckoikn
     * IP Whois & Flags Chrome & Websites Rating  https://chrome.google.com/webstore/detail/ip-whois-flags-chrome-web/kmdfbacgombndnllogoijhnggalgmkon
     * My Apps Secure Sign-in Extension  https://chrome.google.com/webstore/detail/my-apps-secure-sign-in-ex/ggjhpefgjjfobnfoldnjipclpcfbgbhl
