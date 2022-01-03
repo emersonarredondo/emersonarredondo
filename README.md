@@ -9,16 +9,20 @@ Here I will list everything I am learning I would appreciate your feedback
    * SSD  Samsung SSD 970 EVO 250GB 
    * WLAN  Intel Wi-Fi 6 AX200 
  # My Guides 
-   *  GLPI Docker and Kubernetes
+ 
+   * GLPI Docker and Kubernetes
+   
       -Video
       -Repo Dokerfile and docker compose 
       -Repo Manifest Kubernetes
       
-    * Cluster Mysql 8 Kubernetes 
+* Cluster Mysql 8 Kubernetes 
+
        -Video
        -Repo Manifest Kubernetes
        
-    * Cluster Kubernetes Witch Rancher 
+* Cluster Kubernetes Witch Rancher 
+
        -Video
        -Steps 
       
