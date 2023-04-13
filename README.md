@@ -13,21 +13,8 @@ Here I will list everything I am learning I would appreciate your feedback
  
    * [Deploy with docker-compose](https://github.com/emersonarredondo/glpi-kubernetes)
     
- # My tools 
- 
-    * Visual Studio Code
-    * WindowsGrid
-    * MremoteNG
-    * Atom 
-    * MobaxTerm
-    * Postman
-    * Git
-    * Wireshark
-    * Jmeter
-    * Lighshot
-    * Nmap
-    * Advancer IP Scanner
-  # My Extension Browser
+
+  #  Extension Browser
   
     * DNS Checker - SEO and Domain Analysis  (https://microsoftedge.microsoft.com/addons/detail/dns-checker-seo-and-dom/daakannpmnbpblggdcjhlhmnfoeknmlh)
   
